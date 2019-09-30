@@ -7,9 +7,9 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 ## Section 0 - README.md - Harrison
-####1. The Readme file should show your group members' names
-####2. The Readme file should be an index to your other pages and link to them.
-####3. Put a "Changelog" on your readme files that you list all of the changes to the document and who did them.**
+#### 1. The Readme file should show your group members' names
+#### 2. The Readme file should be an index to your other pages and link to them.
+#### 3. Put a "Changelog" on your readme files that you list all of the changes to the document and who did them.**
 
 - [x] Names in README.md
 - [ ] Link to 'Section 1 - Command Line'
@@ -20,7 +20,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 ## Section 1 - Command Line - Roberto Rivera
-####[Link]('Section 1 - Command Line'/section1commands.md)
+#### [Link]('Section 1 - Command Line'/section1commands.md)
 **You must have a section that explains commands and gives example(s) usage for use Vi to create and edit files on Linux and the basic commands that you need to manage the file system:
 Questions to answer: What is it? Why do you do it? How do you do it?**
 
@@ -41,7 +41,7 @@ Questions to answer: What is it? Why do you do it? How do you do it?**
 
 
 ## Section 2 - GitFlow & Workflow
-####[Link]('Section 2 - GitFlow & Workflow'/section2gitflow.md)
+#### [Link]('Section 2 - GitFlow & Workflow'/section2gitflow.md)
 **You must explain the gitFlow workflow and have a section to define and give examples of how to use the following Git commands and terminology:**
 
 - [ ] Repository
@@ -61,7 +61,7 @@ Questions to answer: What is it? Why do you do it? How do you do it?**
 
 
 ## Section 3 - Collaboration - 
-####[Link]('Section 3 - Collaboration'/section3collaboration.md)
+#### [Link]('Section 3 - Collaboration'/section3collaboration.md)
 **Create a step by step tutorial that explains how to set up Git and work collaboratively with more than one person. You must explain the concept of branching and how to to use branches to avoid merge conflicts, your tutorial must illustrate how to create a merge conflict and resolve the merge conflict.**
 
 - [ ] Forking vs Cloning
@@ -72,7 +72,7 @@ Questions to answer: What is it? Why do you do it? How do you do it?**
 
 
 ## Section 4 - section4sources.md - All
-####[Link](section4sources.md)
+#### [Link](section4sources.md)
 **Put a section of sources with links to tutorials and feel free to link to other documents in your work.**
 
 - [ ] Roberto
