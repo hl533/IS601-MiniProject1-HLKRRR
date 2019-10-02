@@ -19,7 +19,7 @@ git add file1.md file2.md
 git commit -m "FEATURE/FIX/TASK: the change you made"
 
 # push changes to github
-git push --set-upstream origin my-branch
+git push --set-upstream-to origin my-branch
 
 # merge branch to master (remember that git merge moves the specified branch to the current branch that's checked-out)
 # First we run git checkout master to change the active branch back to master. Then we run the command git merge new-branch to merge the new feature into the master branch. Note that git merge merges the specified branch into the currently active branch
