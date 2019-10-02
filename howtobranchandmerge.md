@@ -16,7 +16,7 @@ git checkout my-branch
 git add file1.md file2.md
 
 # take a snapshot of the staging area (anything that's been added)
-git commit -m "my snapshot"
+git commit -m "FEATURE/FIX/TASK: the change you made"
 
 # push changes to github
 git push --set-upstream origin my-branch
