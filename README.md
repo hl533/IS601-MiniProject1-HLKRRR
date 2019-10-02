@@ -39,7 +39,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 
-## Section 2 - GitFlow & Workflow - 
+## Section 2 - GitFlow & Workflow - Harrison Lu
 [Link]('Section%202%20-%20GitFlow%20&%20Workflow'/section2gitflow.md)
 1. **You must explain the gitFlow workflow and have a section to define and give examples of how to use the following Git commands and terminology:**
 
