@@ -1,4 +1,3 @@
-# IS601-MiniProject1-HLKRRRx
 Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Harrison Lu, Kenneth Rhodes Jr, Roberto Rivera
 
 - The readme file should be an index to your other pages and link to them.
