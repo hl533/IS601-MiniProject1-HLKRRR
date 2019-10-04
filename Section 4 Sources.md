@@ -9,7 +9,7 @@
 ### Section 1 - Command Line - [Link]('Section%201%20-%20Command%20Line'/section1commands.md)
 - *Source 1*: [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
 - *Source 2*: [https://twiki.org/cgi-bin/view/Wikilearn/TildeSlash](https://twiki.org/cgi-bin/view/Wikilearn/TildeSlash)
-- *Source 3*: [https://www.howtogeek.com/](https://www.howtogeek.com/))
+- *Source 3*: [https://www.howtogeek.com/](https://www.howtogeek.com/)
 
 ### Section 2 - GitFlow & Workflow - [Link]('Section%202%20-%20GitFlow%20&%20Workflow'/section2gitflow.md)
 - *Source 1*
