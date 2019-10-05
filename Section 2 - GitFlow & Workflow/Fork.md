@@ -9,6 +9,6 @@ For an open source project, or for projects to which anyone can contribute, mana
 By forking, a contributor essentially duplicates an existing repo into their own GitHub repository, allowing them to freely work on an open-source project or any other project that they can view, without needing to have explicit permission/rights management on the original project. The contributor can then update their ‘forked’ repo through pull requests from the original project, or suggest changes to the 'master' project through pull requests that have to be approved and reviewed by the project ‘maintainers’.
 
 Click on this button in the master repository to fork to your own repository:
-![fork.jpg](fork.jpg "Forking")
+![fork.jpg](/Images/fork.jpg "Forking")
 
 https://guides.github.com/introduction/git-handbook/
