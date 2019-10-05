@@ -1,7 +1,7 @@
 # Section 2 - GitFlow & Workflow - Harrison Lu
 1. **You must explain the gitFlow workflow and have a section to define and give examples of how to use the following Git commands and terminology:**
 
-- [ ] Repository - 
+- [x] Repository - (Repository.md)[Repository.md/]
 - [ ] Clone - 
 - [ ] Fork - 
 - [ ] Branch - 
