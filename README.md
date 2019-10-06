@@ -5,7 +5,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 
-## Section 0 - README.md - Harrison
+## Section 0 - README.md - All
 1. **The Readme file should show your group members' names**
 2. **The Readme file should be an index to your other pages and link to them.**
 3. **Put a "Changelog" on your readme files that you list all of the changes to the document and who did them.**
@@ -17,22 +17,22 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [x] Link to section4sourcelist.md
 
 
-# Section 1 - Command Line - Roberto Rivera
+## Section 1 - Command Line - Roberto Rivera
 1. **You must have a section that explains commands and gives example(s) usage for use Vi to create and edit files on Linux and the basic commands that you need to manage the file system:**
 2. **Questions to answer: What is it? Why do you do it? How do you do it?**
 
-- [x] cd - cd.md
-- [x] mkdir - mkdir.md
-- [x] cp - cp.md
-- [x] pwd - pwd.md
-- [x] ls - ls.md
-- [x] mv - mv.md
-- [x] rm - rm.md
-- [x] history - history.md
-- [x] Home directory and ~ - home_directory_and_~.md
-- [x] file paths in linux - file_paths_in_linux.md
-- [x] Using the tab key to complete file paths - using_the_tab_key_to_complete_file_paths.md
-- [x] Using up and down arrow for history - using_up_and_down_arrow_for_hisotry.md
+- [x] cd - [cd.md](./'Section 1 - Command Line'/cd.md)
+- [x] mkdir - [mkdir.md](./'Section 1 - Command Line'/mkdir.md)
+- [x] cp - [cp.md](./'Section 1 - Command Line'/cp.md)
+- [x] pwd - [pwd.md](./'Section 1 - Command Line'/pwd.md)
+- [x] ls - [ls.md](./'Section 1 - Command Line'/ls.md)
+- [x] mv - [mv.md](./'Section 1 - Command Line'/mv.md)
+- [x] rm - [rm.md](./'Section 1 - Command Line'/rm.md)
+- [x] history - [history.md](./'Section 1 - Command Line'/history.md)
+- [x] Home directory and ~ - ['home_directory_and_~.md'](./'Section 1 - Command Line'/home_directory_and_~.md)
+- [x] file paths in linux - [file_paths_in_linux.md](./'Section 1 - Command Line'/file_paths_in_linux.md)
+- [x] Using the tab key to complete file paths - [using_the_tab_key_to_complete_file_paths.md](./'Section 1 - Command Line'/[using_the_tab_key_to_complete_file_paths.md)
+- [x] Using up and down arrow for history - [using_up_and_down_arrow_for_history.md](./'Section 1 - Command Line'/using_up_and_down_arrow_for_history.md)
 - [x] Section 1 Sources:
 - *Source 1*: [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
 - *Source 2*: [https://twiki.org/cgi-bin/view/Wikilearn/TildeSlash](https://twiki.org/cgi-bin/view/Wikilearn/TildeSlash)
@@ -44,19 +44,23 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 [Link]('Section%202%20-%20GitFlow%20&%20Workflow'/section2gitflow.md)
 1. **You must explain the gitFlow workflow and have a section to define and give examples of how to use the following Git commands and terminology:**
 
-- [ ] Repository
-- [ ] Clone
-- [ ] Fork
-- [ ] Branch
-- [ ] Commit
-- [ ] Merge
-- [ ] Checkout
-- [ ] Push
-- [ ] Pull
-- [ ] Remote Add / Remove / Show
-- [ ] Status
-- [ ] Master Branch
-- [ ] Section 2 Sources
+- [x] Repository - [Repository.md](./Repository.md/)
+- [x] Clone - [Clone.md](./Clone.md/)
+- [x] Fork - [Fork.md](./Fork.md/)
+- [x] Branch - [Branch.md](./Branch.md/)
+- [x] Commit - [Commit.md](./Commit.md/)
+- [x] Merge - [Merge.md](./Merge.md/)
+- [x] Checkout - [Checkout.md](./Checkout.md/)
+- [ ] Push -
+- [ ] Pull -
+- [ ] Remote Add / Remove / Show -
+- [ ] Status -
+- [ ] Master Branch -
+- [ ] Section 2 Sources -
+- *Source 1* - [https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/)
+- *Source 2* - [https://guides.github.com/introduction/flow/](https://guides.github.com/introduction/flow/)
+- *Source 3* - [https://www.atlassian.com/git/tutorials/using-branches/git-checkout](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
+- *Source 4* - [https://www.atlassian.com/git/tutorials/comparing-workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
 
 
