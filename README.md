@@ -5,7 +5,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 
-## Section 0 - README.md - All
+## README.md - All
 1. **The Readme file should show your group members' names**
 2. **The Readme file should be an index to your other pages and link to them.**
 3. **Put a "Changelog" on your readme files that you list all of the changes to the document and who did them.**
@@ -77,8 +77,8 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 
-## Section 4 - section4sources.md - All
-[Link](section4sources.md)
+## Sources.md - All
+[Link](Sources.md)
 1. **Put a section of sources with links to tutorials and feel free to link to other documents in your work.**
 
 - [x] Roberto
