@@ -21,18 +21,18 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 1. **You must have a section that explains commands and gives example(s) usage for use Vi to create and edit files on Linux and the basic commands that you need to manage the file system:**
 2. **Questions to answer: What is it? Why do you do it? How do you do it?**
 
-- [x] cd - [cd.md](./'Section 1 - Command Line'/cd.md)
-- [x] mkdir - [mkdir.md](./'Section 1 - Command Line'/mkdir.md)
-- [x] cp - [cp.md](./'Section 1 - Command Line'/cp.md)
-- [x] pwd - [pwd.md](./'Section 1 - Command Line'/pwd.md)
-- [x] ls - [ls.md](./'Section 1 - Command Line'/ls.md)
-- [x] mv - [mv.md](./'Section 1 - Command Line'/mv.md)
-- [x] rm - [rm.md](./'Section 1 - Command Line'/rm.md)
-- [x] history - [history.md](./'Section 1 - Command Line'/history.md)
-- [x] Home directory and ~ - ['home_directory_and_~.md'](./'Section 1 - Command Line'/home_directory_and_~.md)
-- [x] file paths in linux - [file_paths_in_linux.md](./'Section 1 - Command Line'/file_paths_in_linux.md)
-- [x] Using the tab key to complete file paths - [using_the_tab_key_to_complete_file_paths.md](./'Section 1 - Command Line'/[using_the_tab_key_to_complete_file_paths.md)
-- [x] Using up and down arrow for history - [using_up_and_down_arrow_for_history.md](./'Section 1 - Command Line'/using_up_and_down_arrow_for_history.md)
+- [x] cd - [cd.md](./'Section 1 - Command Line'/cd.md/)
+- [x] mkdir - [mkdir.md](./'Section 1 - Command Line'/mkdir.md/)
+- [x] cp - [cp.md](./'Section 1 - Command Line'/cp.md/)
+- [x] pwd - [pwd.md](./'Section 1 - Command Line'/pwd.md/)
+- [x] ls - [ls.md](./'Section 1 - Command Line'/ls.md/)
+- [x] mv - [mv.md](./'Section 1 - Command Line'/mv.md/)
+- [x] rm - [rm.md](./'Section 1 - Command Line'/rm.md/)
+- [x] history - [history.md](./'Section 1 - Command Line'/history.md/)
+- [x] Home directory and ~ - ['home_directory_and_~.md'](./'Section 1 - Command Line'/home_directory_and_~.md/)
+- [x] file paths in linux - [file_paths_in_linux.md](./'Section 1 - Command Line'/file_paths_in_linux.md/)
+- [x] Using the tab key to complete file paths - [using_the_tab_key_to_complete_file_paths.md](./'Section 1 - Command Line'/[using_the_tab_key_to_complete_file_paths.md/)
+- [x] Using up and down arrow for history - [using_up_and_down_arrow_for_history.md](./'Section 1 - Command Line'/using_up_and_down_arrow_for_history.md/)
 - [x] Section 1 Sources:
 - *Source 1*: [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
 - *Source 2*: [https://twiki.org/cgi-bin/view/Wikilearn/TildeSlash](https://twiki.org/cgi-bin/view/Wikilearn/TildeSlash)
@@ -44,18 +44,18 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 [Link]('Section%202%20-%20GitFlow%20&%20Workflow'/section2gitflow.md)
 1. **You must explain the gitFlow workflow and have a section to define and give examples of how to use the following Git commands and terminology:**
 
-- [x] Repository - [Repository.md](./Repository.md/)
-- [x] Clone - [Clone.md](./Clone.md/)
-- [x] Fork - [Fork.md](./Fork.md/)
-- [x] Branch - [Branch.md](./Branch.md/)
-- [x] Commit - [Commit.md](./Commit.md/)
-- [x] Merge - [Merge.md](./Merge.md/)
-- [x] Checkout - [Checkout.md](./Checkout.md/)
-- [ ] Push -
-- [ ] Pull -
-- [ ] Remote Add / Remove / Show -
-- [ ] Status -
-- [ ] Master Branch -
+- [x] Repository - [Repository.md](./'Section 2 - GitFlow & Workflow'/Repository.md/)
+- [x] Clone - [Clone.md](./'Section 2 - GitFlow & Workflow'/Clone.md/)
+- [x] Fork - [Fork.md](./'Section 2 - GitFlow & Workflow'/Fork.md/)
+- [x] Branch - [Branch.md](./'Section 2 - GitFlow & Workflow'/Branch.md/)
+- [x] Commit - [Commit.md](./'Section 2 - GitFlow & Workflow'/Commit.md/)
+- [x] Merge - [Merge.md](./'Section 2 - GitFlow & Workflow'/Merge.md/)
+- [x] Checkout - [Checkout.md](./'Section 2 - GitFlow & Workflow'/Checkout.md/)
+- [ ] Push - [Push.md](./'Section 2 - GitFlow & Workflow'/Push.md/)
+- [ ] Pull - [Pull.md](./'Section 2 - GitFlow & Workflow'/Pull.md/)
+- [ ] Remote Add / Remove / Show - ['Remote Add / Remove / Show'.md](./'Section 2 - GitFlow & Workflow'/'Remote Add / Remove / Show'.md/)
+- [ ] Status - [Status.md](./'Section 2 - GitFlow & Workflow'/Status.md/)
+- [ ] Master Branch - ['Master Branch'.md](./'Section 2 - GitFlow & Workflow'/'Master Branch'.md/)
 - [ ] Section 2 Sources -
 - *Source 1* - [https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/)
 - *Source 2* - [https://guides.github.com/introduction/flow/](https://guides.github.com/introduction/flow/)
