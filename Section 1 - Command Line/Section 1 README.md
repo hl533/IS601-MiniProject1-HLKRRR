@@ -2,18 +2,18 @@
 1. **You must have a section that explains commands and gives example(s) usage for use Vi to create and edit files on Linux and the basic commands that you need to manage the file system:**
 2. **Questions to answer: What is it? Why do you do it? How do you do it?**
 
-- [x] cd - [cd.md](./'Section 1 - Command Line'/cd.md)
-- [x] mkdir - [mkdir.md](./'Section 1 - Command Line'/mkdir.md)
-- [x] cp - [cp.md](./'Section 1 - Command Line'/cp.md)
-- [x] pwd - [pwd.md](./'Section 1 - Command Line'/pwd.md)
-- [x] ls - [ls.md](./'Section 1 - Command Line'/ls.md)
-- [x] mv - [mv.md](./'Section 1 - Command Line'/mv.md)
-- [x] rm - [rm.md](./'Section 1 - Command Line'/rm.md)
-- [x] history - [history.md](./'Section 1 - Command Line'/history.md)
-- [x] Home directory and ~ - ['home_directory_and_~.md'](./'Section 1 - Command Line'/home_directory_and_~.md)
-- [x] file paths in linux - [file_paths_in_linux.md](./'Section 1 - Command Line'/file_paths_in_linux.md)
-- [x] Using the tab key to complete file paths - [using_the_tab_key_to_complete_file_paths.md](./'Section 1 - Command Line'/[using_the_tab_key_to_complete_file_paths.md)
-- [x] Using up and down arrow for history - [using_up_and_down_arrow_for_history.md](./'Section 1 - Command Line'/using_up_and_down_arrow_for_history.md)
+- [x] cd - [cd.md](./cd.md)
+- [x] mkdir - [mkdir.md](./mkdir.md)
+- [x] cp - [cp.md](./cp.md)
+- [x] pwd - [pwd.md](./pwd.md)
+- [x] ls - [ls.md](./ls.md)
+- [x] mv - [mv.md](./mv.md)
+- [x] rm - [rm.md](./rm.md)
+- [x] history - [history.md](./history.md)
+- [x] Home directory and ~ - [home directory and ~.md'](./home_directory_and_~.md)
+- [x] file paths in linux - [file paths in linux.md](./ile_paths_in_linux.md)
+- [x] Using the tab key to complete file paths - [using the tab key to complete file paths.md](./using_the_tab_key_to_complete_file_paths.md)
+- [x] Using up and down arrow for history - [using up and down arrow for history.md](./using_up_and_down_arrow_for_history.md)
 
 - [x] Section 1 Sources: 
 - *Source 1*: [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
