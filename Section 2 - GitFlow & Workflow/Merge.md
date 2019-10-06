@@ -15,6 +15,7 @@ The command for merging is:
 #note that the 'destination' or 'master' branch has to be the currently selected branch, accomplished using the ```git checkout``` command
 
 In GitHub, it is done in the following steps:
+
 ![merge.jpg](./Images/merge.jpg "Merging")
 
 [https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/)
