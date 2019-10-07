@@ -35,7 +35,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [x] history - [history.md](./Section%201%20-%20Command%20Line/history.md/)
 - [x] Home directory and ~ - [home directory and ~.md](./Section%201%20-%20Command%20Line/home_directory_and_~.md/)
 - [x] file paths in linux - [file paths in linux.md](./Section%201%20-%20Command%20Line/file_paths_in_linux.md/)
-- [x] Using the tab key to complete file paths - [using the tab key to complete file paths.md](./Section%201%20-%20Command%20Line/[using_the_tab_key_to_complete_file_paths.md/)
+- [x] Using the tab key to complete file paths - [using the tab key to complete file paths.md](./Section%201%20-%20Command%20Line/using_the_tab_key_to_complete_file_paths.md/)
 - [x] Using up and down arrow for history - [using up and down arrow for history.md](./Section%201%20-%20Command%20Line/using_up_and_down_arrow_for_history.md/)
 - [x] Section 1 Sources:
 - *Source 1*: [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
