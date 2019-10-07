@@ -12,11 +12,11 @@ The Master Branch (light blue) is the only version of the project that the publi
 
 - **Develop**
 
-The Develop Branch (yellow) is where, naturally, where most of the development stems from. Any features developed in the Feature Branches or bug fixes from the Release or Hotfix branches will be pushed back to here. This will generally be the most up-to-date version of the project.
+The Develop Branch (yellow) is, naturally, where most of the development stems from. Any features developed in the Feature Branches or bug fixes from the Release or Hotfix branches will be pushed back to here. This will generally be the most up-to-date version of the project.
 
 - **Feature**
 
-The Feature Branches (pink) are created to work on specific discrete features of the project. A contributor or team of contributors can work on this branch, independently from other Feature Branches, and experiment and tinker without the fear of interrupting the work of other teams or the main project. Different Feature Branches can easily be [merged back](./Merge.md) into the Develop Branch at different points in time, when it comes time to get the project ready for release/deployment.
+The Feature Branches (pink) are created to work on specific discrete features of the project. A contributor or team of contributors can work on this branch, independently from other Feature Branches, and experiment and tinker without the fear of interrupting the work of other teams or the main project. Different Feature Branches can easily be [merged back](./Merge.md/) into the Develop Branch at different points in time, when it comes time to get the project ready for release/deployment.
 
 - **Release**
 
