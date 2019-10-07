@@ -60,12 +60,14 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [x] Remote Add / Remove / Show - [Remote.md](./Section%202%20-%20GitFlow%20&%20Workflow/Remote.md/)
 - [x] Status - [Status.md](./Section%202%20-%20GitFlow%20&%20Workflow/Status.md/)
 - [x] Master Branch - [Master Branch.md](./Section%202%20-%20GitFlow%20&%20Workflow/Master%20Branch.md/)
+- [ ] GitFlow & Workflow - [GitFlow & Workflow.md](./Section%202%20-%20GitFlow%20&%20Workflow/GitFlow%20&%20Workflow.md/)
 - [x] Section 2 Sources -
 - *Source 1* - [https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/)
 - *Source 2* - [https://guides.github.com/introduction/flow/](https://guides.github.com/introduction/flow/)
 - *Source 3* - [https://www.atlassian.com/git/tutorials/using-branches/git-checkout](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
 - *Source 4* - [https://www.atlassian.com/git/tutorials/comparing-workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - *Source 5* - [https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+- *Source 6* - [https://datasift.github.io/gitflow/IntroducingGitFlow.html](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
 
 
 
