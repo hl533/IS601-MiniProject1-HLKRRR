@@ -10,9 +10,9 @@
 - [x] Checkout - [Checkout.md](./Checkout.md/)
 - [ ] Push - [Push.md](./Push.md/)
 - [ ] Pull - [Pull.md](./Pull.md/)
-- [ ] Remote Add / Remove / Show - ['Remote Add / Remove / Show'.md](./'Remote Add / Remove / Show'.md/)
+- [ ] Remote Add / Remove / Show - [Remote.md](./Remote.md/)
 - [ ] Status - [Status.md](./Status.md/)
-- [ ] Master Branch - ['Master Branch'.md](./'Master Branch'.md/)
+- [ ] Master Branch - [Master Branch.md](./Master%20Branch.md/)
 - [ ] Section 2 Sources - 
 - *Source 1* - [https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/)
 - *Source 2* - [https://guides.github.com/introduction/flow/](https://guides.github.com/introduction/flow/)

@@ -55,9 +55,9 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [x] Commit - [Commit.md](./Section%202%20-%20GitFlow%20&%20Workflow/Commit.md/)
 - [x] Merge - [Merge.md](./Section%202%20-%20GitFlow%20&%20Workflow/Merge.md/)
 - [x] Checkout - [Checkout.md](./Section%202%20-%20GitFlow%20&%20Workflow/Checkout.md/)
-- [ ] Push - [Push.md](./Section%202%20-%20GitFlow%20&%20Workflow/Push.md/)
-- [ ] Pull - [Pull.md](./Section%202%20-%20GitFlow%20&%20Workflow/Pull.md/)
-- [ ] Remote Add / Remove / Show - [Remote Add / Remove / Show.md](./Section%202%20-%20GitFlow%20&%20Workflow/Remote%20Add%20/%20Remove%20/%20Show.md/)
+- [x] Push - [Push.md](./Section%202%20-%20GitFlow%20&%20Workflow/Push.md/)
+- [x] Pull - [Pull.md](./Section%202%20-%20GitFlow%20&%20Workflow/Pull.md/)
+- [x] Remote Add / Remove / Show - [Remote.md](./Section%202%20-%20GitFlow%20&%20Workflow/Remote.md/)
 - [ ] Status - [Status.md](./Section%202%20-%20GitFlow%20&%20Workflow/Status.md/)
 - [ ] Master Branch - [Master Branch.md](./Section%202%20-%20GitFlow%20&%20Workflow/Master%20Branch.md/)
 - [ ] Section 2 Sources -
