@@ -22,5 +22,11 @@
 > for project transparency and collaboration. Public repositories help
 > teams work together to build the best possible final product.”
 
+Here is an example of what a repository may look like, displaying the commits and branches in graphical form:
+
+![Repository](https://nvie.com/img/git-model@2x.png)
+
+Here's what the main page for the repository you're currently in right now looks like:
+![This Repository](./Images/repository.jpg)
 
 [https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/)
