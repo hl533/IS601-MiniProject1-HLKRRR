@@ -8,15 +8,16 @@
 - [x] Commit - [Commit.md](./Commit.md/)
 - [x] Merge - [Merge.md](./Merge.md/)
 - [x] Checkout - [Checkout.md](./Checkout.md/)
-- [ ] Push - [Push.md](./Push.md/)
-- [ ] Pull - [Pull.md](./Pull.md/)
-- [ ] Remote Add / Remove / Show - [Remote.md](./Remote.md/)
-- [ ] Status - [Status.md](./Status.md/)
-- [ ] Master Branch - [Master Branch.md](./Master%20Branch.md/)
-- [ ] Section 2 Sources - 
+- [x] Push - [Push.md](./Push.md/)
+- [x] Pull - [Pull.md](./Pull.md/)
+- [x] Remote Add / Remove / Show - [Remote.md](./Remote.md/)
+- [x] Status - [Status.md](./Status.md/)
+- [x] Master Branch - [Master Branch.md](./Master%20Branch.md/)
+- [x] Section 2 Sources - 
 - *Source 1* - [https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/)
 - *Source 2* - [https://guides.github.com/introduction/flow/](https://guides.github.com/introduction/flow/)
 - *Source 3* - [https://www.atlassian.com/git/tutorials/using-branches/git-checkout](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
 - *Source 4* - [https://www.atlassian.com/git/tutorials/comparing-workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- *Source 5* - [https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 
 [Return to README](../README.md)
