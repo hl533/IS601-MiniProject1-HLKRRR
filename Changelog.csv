@@ -1,4 +1,6 @@
 Hash,Contributor,Date & Time,Change
+e0eb623,Roberto Rivera,"Tue, 8 Oct 2019 16:11:06 -0400","FEATURE: Exlpained the what the ls command is, why cls clear clr ESC git commit -m FEATURE"
+17e4b40,Harrison Lu,"Mon, 7 Oct 2019 16:41:41 -0400",TASK: Added log.csv and changelog to readme and added sources
 01af49f,Harrison Lu,"Mon, 7 Oct 2019 15:28:28 -0400",EDIT: A couple more edits to GitFlow & Workflow entry
 e53c9e1,Harrison Lu,"Mon, 7 Oct 2019 15:24:34 -0400",EDIT: Formatting change to GitFlow & Workflow entry
 461f19b,Harrison Lu,"Mon, 7 Oct 2019 15:18:11 -0400",FEATURE: Created entry for GitFlow & Workflow and edited READMEs and Sources as needed
