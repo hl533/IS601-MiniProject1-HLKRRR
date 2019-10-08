@@ -13,7 +13,7 @@
 - [x] Remote Add / Remove / Show - [Remote.md](./Remote.md/)
 - [x] Status - [Status.md](./Status.md/)
 - [x] Master Branch - [Master Branch.md](./Master%20Branch.md/)
-- [ ] GitFlow & Workflow - [GitFlow & Workflow.md](./GitFlow%20&%20Workflow.md/)
+- [x] GitFlow & Workflow - [GitFlow & Workflow.md](./GitFlow%20&%20Workflow.md/)
 - [x] Section 2 Sources -
 - *Source 1* - [https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/)
 - *Source 2* - [https://guides.github.com/introduction/flow/](https://guides.github.com/introduction/flow/)

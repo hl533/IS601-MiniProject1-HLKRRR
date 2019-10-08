@@ -2,9 +2,13 @@
 
 Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Harrison Lu, Kenneth Rhodes Jr, Roberto Rivera
 
-- The readme file should be an index to your other pages and link to them.
-- Put a "Changelog" on your readme file that you list all of the changes to the document and who did them.
-
+## Table of Contents:
+- [README](#readmemd---all)
+- [Command Line](#section-1---command-line---roberto-rivera)
+- [GitFlow & Workflow](#section-2---gitflow--workflow---harrison-lu)
+- [Collaboration](#section-3---collaboration---kenneth-rhodes-jr-mba)
+- [Sources](#sourcesmd---all)
+- [Changelog](#changelogcsv---all)
 
 
 ## README.md - All
