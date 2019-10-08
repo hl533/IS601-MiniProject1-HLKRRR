@@ -97,6 +97,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 ## Changelog.csv - All
 [Link](./Changelog.csv/)
+
 |Hash   |Contributor   |Date & Time                    |Change                                                                                                                    |
 |-------|--------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 |e0eb623|Roberto Rivera|Tue, 8 Oct 2019 16:11:06 -0400 |FEATURE: Exlpained the what the ls command is, why cls clear clr ESC git commit -m FEATURE                                |
