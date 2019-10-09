@@ -104,6 +104,10 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 |Hash   |Contributor   |Date & Time                    |Change                                                                                                                    |
 |-------|--------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|61b02ce|Harrison Lu   |Wed, 9 Oct 2019 09:14:42 -0400 |EDIT: Changes to section links in main README                                                                             |
+|7f2cd9d|Harrison Lu   |Tue, 8 Oct 2019 17:19:20 -0400 |EDIT: Formatting changes to main and sec 2 README docs                                                                    |
+|00029ad|Harrison Lu   |Tue, 8 Oct 2019 16:40:03 -0400 |EDIT: Formatting edit to README in changelog section                                                                      |
+|89a77f3|Harrison Lu   |Tue, 8 Oct 2019 16:26:54 -0400 |TASK: Completed changes to changelog in Changelog and README                                                              |
 |e0eb623|Roberto Rivera|Tue, 8 Oct 2019 16:11:06 -0400 |FEATURE: Exlpained the what the ls command is, why cls clear clr ESC git commit -m FEATURE                                |
 |17e4b40|Harrison Lu   |Mon, 7 Oct 2019 16:41:41 -0400 |TASK: Added log.csv and changelog to readme and added sources                                                             |
 |01af49f|Harrison Lu   |Mon, 7 Oct 2019 15:28:28 -0400 |EDIT: A couple more edits to GitFlow & Workflow entry                                                                     |
