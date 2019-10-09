@@ -25,7 +25,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 ## Section 1 - Command Line - Roberto Rivera
-[Link](Section%201%20-%20Command%20Line/Section%201%20README.md)
+[Link to Section 1](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%201%20-%20Command%20Line)
 1. **You must have a section that explains commands and gives example(s) usage for use Vi to create and edit files on Linux and the basic commands that you need to manage the file system:**
 2. **Questions to answer: What is it? Why do you do it? How do you do it?**
 
@@ -49,7 +49,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 ## Section 2 - GitFlow & Workflow - Harrison Lu
-[Link](Section%202%20-%20GitFlow%20&%20Workflow/Section%202%20README.md)
+[Link to Section 2](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%202%20-%20GitFlow%20%26%20Workflow)
 1. **You must explain the gitFlow workflow and have a section to define and give examples of how to use the following Git commands and terminology:**
 
 - [x] Repository - [Repository.md](./Section%202%20-%20GitFlow%20&%20Workflow/Repository.md/)
@@ -76,7 +76,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 ## Section 3 - Collaboration - Kenneth Rhodes Jr, MBA
-[Link](Section%203%20-%20Collaboration/Section%203%20README.md)
+[Link to Section 3](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%203%20-%20Collaboration)
 1. **Create a step by step tutorial that explains how to set up Git and work collaboratively with more than one person.**
 2. **You must explain the concept of branching and how to to use branches to avoid merge conflicts.**
 3. **Your tutorial must illustrate how to create a merge conflict and resolve the merge conflict.**
@@ -90,7 +90,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 ## Sources.md - All
-[Link](Sources.md)
+[Link to Sources.md](Sources.md)
 1. **Put a section of sources with links to tutorials and feel free to link to other documents in your work.**
 
 - [x] Roberto
@@ -100,10 +100,14 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 ## Changelog.csv - All
-[Link](./Changelog.csv/)
+[Link to Changelog.csv](./Changelog.csv/)
 
 |Hash   |Contributor   |Date & Time                    |Change                                                                                                                    |
 |-------|--------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|61b02ce|Harrison Lu   |Wed, 9 Oct 2019 09:14:42 -0400 |EDIT: Changes to section links in main README                                                                             |
+|7f2cd9d|Harrison Lu   |Tue, 8 Oct 2019 17:19:20 -0400 |EDIT: Formatting changes to main and sec 2 README docs                                                                    |
+|00029ad|Harrison Lu   |Tue, 8 Oct 2019 16:40:03 -0400 |EDIT: Formatting edit to README in changelog section                                                                      |
+|89a77f3|Harrison Lu   |Tue, 8 Oct 2019 16:26:54 -0400 |TASK: Completed changes to changelog in Changelog and README                                                              |
 |e0eb623|Roberto Rivera|Tue, 8 Oct 2019 16:11:06 -0400 |FEATURE: Exlpained the what the ls command is, why cls clear clr ESC git commit -m FEATURE                                |
 |17e4b40|Harrison Lu   |Mon, 7 Oct 2019 16:41:41 -0400 |TASK: Added log.csv and changelog to readme and added sources                                                             |
 |01af49f|Harrison Lu   |Mon, 7 Oct 2019 15:28:28 -0400 |EDIT: A couple more edits to GitFlow & Workflow entry                                                                     |
