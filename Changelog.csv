@@ -1,4 +1,7 @@
 Hash,Contributor,Date & Time,Change
+9d40dbe,hl533,"Thu, 10 Oct 2019 10:16:13 -0400",EDIT: Consolidated sourcelists to Sources.md (No repeating!)
+3883560,Harrison Lu,"Thu, 10 Oct 2019 09:08:52 -0400",TASK: Deleted Redundant READMEs (Dont repeat yourself!)
+4f22352,Harrison Lu,"Wed, 9 Oct 2019 09:25:50 -0400",EDIT: Maybe actually final changes to changelog now
 61b02ce,Harrison Lu,"Wed, 9 Oct 2019 09:14:42 -0400",EDIT: Changes to section links in main README
 7f2cd9d,Harrison Lu,"Tue, 8 Oct 2019 17:19:20 -0400",EDIT: Formatting changes to main and sec 2 README docs
 00029ad,Harrison Lu,"Tue, 8 Oct 2019 16:40:03 -0400",EDIT: Formatting edit to README in changelog section
@@ -48,7 +51,7 @@ dc0e45f,Roberto Rivera,"Thu, 3 Oct 2019 15:34:01 -0400","FEATURE: Explained what
 bd12419,Roberto Rivera,"Thu, 3 Oct 2019 15:10:13 -0400","FEATURE: Explained what is the mv command, why do you do it and how do you do it."
 366f687,Roberto Rivera,"Thu, 3 Oct 2019 15:02:05 -0400","FEATURE: Explained what is the pwd command, why do you do it and how do you do it."
 8e07e40,Roberto Rivera,"Thu, 3 Oct 2019 14:51:18 -0400","FEATURE: Explained what is the cp command, why do you do it and how do you do it."
-1080724,Roberto Rivera,"Wed, 2 Oct 2019 19:50:33 -0400",FEATURES:explained the mkdir command
+Dec-58,Roberto Rivera,"Wed, 2 Oct 2019 19:50:33 -0400",FEATURES:explained the mkdir command
 af9d05a,Harrison Lu,"Wed, 2 Oct 2019 19:27:47 -0400",FEATURE: Created Repository definition document
 706151c,Roberto Rivera,"Wed, 2 Oct 2019 19:18:47 -0400",FEATURE: created the entry for the defintion of cd
 bfe706b,Roberto Rivera,"Wed, 2 Oct 2019 18:56:00 -0400",Removed a line

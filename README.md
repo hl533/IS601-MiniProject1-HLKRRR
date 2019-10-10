@@ -41,10 +41,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [x] file paths in linux - [file paths in linux.md](./Section%201%20-%20Command%20Line/file_paths_in_linux.md/)
 - [x] Using the tab key to complete file paths - [using the tab key to complete file paths.md](./Section%201%20-%20Command%20Line/using_the_tab_key_to_complete_file_paths.md/)
 - [x] Using up and down arrow for history - [using up and down arrow for history.md](./Section%201%20-%20Command%20Line/using_up_and_down_arrow_for_history.md/)
-- [x] Section 1 Sources:
-- *Source 1*: [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
-- *Source 2*: [https://twiki.org/cgi-bin/view/Wikilearn/TildeSlash](https://twiki.org/cgi-bin/view/Wikilearn/TildeSlash)
-- *Source 3*: [https://www.howtogeek.com/](https://www.howtogeek.com/)
+- [x] Section 1 Sources - [Sources.md](./Sources.md#section-1---command-line---link/)
 
 
 
@@ -65,13 +62,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [x] Status - [Status.md](./Section%202%20-%20GitFlow%20&%20Workflow/Status.md/)
 - [x] Master Branch - [Master Branch.md](./Section%202%20-%20GitFlow%20&%20Workflow/Master%20Branch.md/)
 - [x] GitFlow & Workflow - [GitFlow & Workflow.md](./Section%202%20-%20GitFlow%20&%20Workflow/GitFlow%20&%20Workflow.md/)
-- [x] Section 2 Sources -
-- *Source 1* - [https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/)
-- *Source 2* - [https://guides.github.com/introduction/flow/](https://guides.github.com/introduction/flow/)
-- *Source 3* - [https://www.atlassian.com/git/tutorials/using-branches/git-checkout](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
-- *Source 4* - [https://www.atlassian.com/git/tutorials/comparing-workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-- *Source 5* - [https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
-- *Source 6* - [https://datasift.github.io/gitflow/IntroducingGitFlow.html](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+- [x] Section 2 Sources - [Sources.md](./Sources.md#section-2---gitflow--workflow---link/)
 
 
 
@@ -84,7 +75,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [ ] Forking vs Cloning
 - [ ] Pull Request
 - [ ] Adding a collaborator to a Github Repo
-- [ ] Section 3 Sources
+- [ ] Section 3 Sources - [Sources.md](./Sources.md#section-3---collaboration---link/)
 
 
 
@@ -104,6 +95,8 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 |Hash   |Contributor   |Date & Time                    |Change                                                                                                                    |
 |-------|--------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|9d40dbe|hl533         |Thu, 10 Oct 2019 10:16:13 -0400|EDIT: Consolidated sourcelists to Sources.md (No repeating!)                                                              |
+|3883560|Harrison Lu   |Thu, 10 Oct 2019 09:08:52 -0400|TASK: Deleted Redundant READMEs (Dont repeat yourself!)                                                                   |
 |61b02ce|Harrison Lu   |Wed, 9 Oct 2019 09:14:42 -0400 |EDIT: Changes to section links in main README                                                                             |
 |7f2cd9d|Harrison Lu   |Tue, 8 Oct 2019 17:19:20 -0400 |EDIT: Formatting changes to main and sec 2 README docs                                                                    |
 |00029ad|Harrison Lu   |Tue, 8 Oct 2019 16:40:03 -0400 |EDIT: Formatting edit to README in changelog section                                                                      |
