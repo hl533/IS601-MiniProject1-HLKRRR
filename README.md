@@ -90,7 +90,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 ## Sources.md - All
-[Link to Sources.md](Sources.md)
+[Link to Sources.md](./Sources.md/)
 1. **Put a section of sources with links to tutorials and feel free to link to other documents in your work.**
 
 - [x] Roberto
