@@ -95,6 +95,8 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 |Hash   |Contributor   |Date & Time                    |Change                                                                                                                    |
 |-------|--------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|9d40dbe|hl533         |Thu, 10 Oct 2019 10:16:13 -0400|EDIT: Consolidated sourcelists to Sources.md (No repeating!)                                                              |
+|3883560|Harrison Lu   |Thu, 10 Oct 2019 09:08:52 -0400|TASK: Deleted Redundant READMEs (Dont repeat yourself!)                                                                   |
 |61b02ce|Harrison Lu   |Wed, 9 Oct 2019 09:14:42 -0400 |EDIT: Changes to section links in main README                                                                             |
 |7f2cd9d|Harrison Lu   |Tue, 8 Oct 2019 17:19:20 -0400 |EDIT: Formatting changes to main and sec 2 README docs                                                                    |
 |00029ad|Harrison Lu   |Tue, 8 Oct 2019 16:40:03 -0400 |EDIT: Formatting edit to README in changelog section                                                                      |
