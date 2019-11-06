@@ -78,6 +78,27 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [ ] Section 3 Sources - [Sources.md](./Sources.md#section-3---collaboration---link/)
 
 
+## Section 4 - Additional Definitions - Roberto Rivera and Harrison Lu
+[Link to Section 4](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%204%20-%20CAdditional&20Definitions)
+1. **In addition, your team must update your mini-project 1 with definitions and examples of the following terms:**
+
+- [ ] How Python uses Indentation to control Flow
+- [ ] Don't Repeat Yourself
+- [ ] Design Patterns from Gang of Four
+- [ ] Class
+- [ ] Object
+- [ ] Static
+- [ ] Property / Attribute
+- [ ] Method
+- [ ] Exception
+- [ ] Unit Test
+- [ ] Constructor
+- [ ] Factory
+- [ ] Decorator
+- [ ] Extend Class
+- [ ] CSV Files
+- [ ] Reading Files
+- [ ] Section 3 Sources - [Sources.md](./Sources.md#section-4---additional-definitions---link/)
 
 
 ## Sources.md - All

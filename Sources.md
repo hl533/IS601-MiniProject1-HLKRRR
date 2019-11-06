@@ -24,3 +24,7 @@
 - *Source 1*
 - *Source 2*
 - *Source 3*
+
+## Section 4 - Additional Definitions - [Link](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%204%20-%20CAdditional&20Definitions)
+- *Source 1* - [https://www.wikipedia.org](https://www.wikipedia.org)
+- *Source 2* - [http://www.blackwasp.co.uk/gofpatterns.aspx](http://www.blackwasp.co.uk/gofpatterns.aspx)
