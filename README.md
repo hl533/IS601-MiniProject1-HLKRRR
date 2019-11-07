@@ -82,7 +82,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 [Link to Section 4](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%204%20-%20CAdditional&20Definitions)
 1. **In addition, your team must update your mini-project 1 with definitions and examples of the following terms:**
 
-- [x] How Python uses Indentation to control Flow - [Indentation.md](Indentation.md)
+- [x] How Python uses Indentation to control Flow - [Indentation.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Class.md)
 - [x] Don't Repeat Yourself - [DontRepeatYourself.md](DontRepeatYourself.md)
 - [x] Design Patterns from Gang of Four - [GangofFour.md](GangofFour.md)
 - [x] Class - [Class.md](Class.md)
