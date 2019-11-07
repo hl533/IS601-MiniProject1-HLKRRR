@@ -17,10 +17,10 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 3. **Put a "Changelog" on your readme files that you list all of the changes to the document and who did them.**
 
 - [x] Names in README.md
-- [x] Link to Section 1 - Command Line
-- [x] Link to Section 2 - GitFlow & Worksflow
-- [x] Link to Section 3 - Collaboration
-- [x] Link to Section 4 - Additional Definitions 
+- [x] [Link to Section 1](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%201%20-%20Command%20Line) - Command Line 
+- [x] [Link to Section 2](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%202%20-%20GitFlow%20%26%20Workflow) - GitFlow & Worksflow
+- [x] [Link to Section 3](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%203%20-%20Collaboration) - Collaboration
+- [x] [Link to Section 4](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%204%20-%20Additional%20Definitions) - Additional Definitions 
 - [x] Link to Sources.md
 
 
