@@ -82,23 +82,23 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 [Link to Section 4](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%204%20-%20CAdditional&20Definitions)
 1. **In addition, your team must update your mini-project 1 with definitions and examples of the following terms:**
 
-- [ ] How Python uses Indentation to control Flow
-- [ ] Don't Repeat Yourself
-- [ ] Design Patterns from Gang of Four
-- [x] Class - Class.md
-- [ ] Object
-- [ ] Static
-- [ ] Property / Attribute
-- [ ] Method
-- [ ] Exception
-- [ ] Unit Test
-- [ ] Constructor
-- [ ] Factory
-- [ ] Decorator
-- [ ] Extend Class
-- [ ] CSV Files
-- [ ] Reading Files
-- [ ] Section 3 Sources - [Sources.md](./Sources.md#section-4---additional-definitions---link/)
+- [x] How Python uses Indentation to control Flow
+- [x] Don't Repeat Yourself
+- [x] Design Patterns from Gang of Four
+- [x] Class
+- [x] Object
+- [x] Static
+- [x] Property / Attribute
+- [x] Method
+- [x] Exception
+- [x] Unit Test
+- [x] Constructor
+- [x] Factory
+- [x] Decorator
+- [x] Extend Class
+- [x] CSV Files
+- [x] Reading Files
+- [x] Section 3 Sources - [Sources.md](./Sources.md#section-4---additional-definitions---link/)
 
 
 ## Sources.md - All
