@@ -20,6 +20,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [x] Link to Section 1 - Command Line
 - [x] Link to Section 2 - GitFlow & Worksflow
 - [x] Link to Section 3 - Collaboration
+- [x] Link to Section 4 - Additional Definitions 
 - [x] Link to Sources.md
 
 
