@@ -85,7 +85,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [ ] How Python uses Indentation to control Flow
 - [ ] Don't Repeat Yourself
 - [ ] Design Patterns from Gang of Four
-- [ ] Class
+- [x] Class - Class.md
 - [ ] Object
 - [ ] Static
 - [ ] Property / Attribute
