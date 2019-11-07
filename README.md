@@ -86,7 +86,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [x] Don't Repeat Yourself - [DontRepeatYourself.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/DontRepeatYourself.md)
 - [x] Design Patterns from Gang of Four - [GangofFour.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/GangofFour.md)
 - [x] Class - [Class.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Class.md)
-- [x] Object - [Object.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Object.m)
+- [x] Object - [Object.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Object.md)
 - [x] Static - [Static.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Static.md)
 - [x] Property / Attribute - [Property_Attribute.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Property_Attribute.md)
 - [x] Method - [Method.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Method.md)
