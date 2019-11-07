@@ -82,22 +82,22 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 [Link to Section 4](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%204%20-%20CAdditional&20Definitions)
 1. **In addition, your team must update your mini-project 1 with definitions and examples of the following terms:**
 
-- [x] How Python uses Indentation to control Flow
-- [x] Don't Repeat Yourself
-- [x] Design Patterns from Gang of Four
-- [x] Class
-- [x] Object
-- [x] Static
-- [x] Property / Attribute
-- [x] Method
-- [x] Exception
-- [x] Unit Test
-- [x] Constructor
-- [x] Factory
-- [x] Decorator
-- [x] Extend Class
-- [x] CSV Files
-- [x] Reading Files
+- [x] How Python uses Indentation to control Flow - [Indentation.md](Indentation.md)
+- [x] Don't Repeat Yourself - [DontRepeatYourself.md](DontRepeatYourself.md)
+- [x] Design Patterns from Gang of Four - [GangofFour.md](GangofFour.md)
+- [x] Class - [Class.md](Class.md)
+- [x] Object - [Object.md](Object.m)
+- [x] Static - [Static.md](Static.md)
+- [x] Property / Attribute - [Property_Attribute.md](Property_Attribute.md)
+- [x] Method - [Method.md](Method.md)
+- [x] Exception - [Exception.md](Exception.md)
+- [x] Unit Test - [UnitTest.md](UnitTest.md)
+- [x] Constructor - [Constructor.md](Constructor.md)
+- [x] Factory - [Factory.md](Factory.md)
+- [x] Decorator - [Decorator.md](Decorator.md)
+- [x] Extend Class - [ExtendClass.md](ExtendClass.md)
+- [x] CSV Files - [CsvFiles.md](CsvFiles.md)
+- [x] Reading Files - [ReadingFiles.md](ReadingFiles.md)
 - [x] Section 3 Sources - [Sources.md](./Sources.md#section-4---additional-definitions---link/)
 
 
