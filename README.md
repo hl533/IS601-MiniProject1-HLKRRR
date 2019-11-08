@@ -2,6 +2,7 @@
 
 Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Harrison Lu, Kenneth Rhodes Jr, Roberto Rivera
 
+
 ## Table of Contents:
 - [README](#readmemd---all)
 - [Command Line](#section-1---command-line---roberto-rivera)
@@ -9,6 +10,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [Collaboration](#section-3---collaboration---kenneth-rhodes-jr-mba)
 - [Sources](#sourcesmd---all)
 - [Changelog](#changelogcsv---all)
+
 
 
 ## README.md - All
@@ -67,20 +69,8 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 
-## Section 3 - Collaboration - Kenneth Rhodes Jr, MBA
-[Link to Section 3](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%203%20-%20Collaboration)
-1. **Create a step by step tutorial that explains how to set up Git and work collaboratively with more than one person.**
-2. **You must explain the concept of branching and how to to use branches to avoid merge conflicts.**
-3. **Your tutorial must illustrate how to create a merge conflict and resolve the merge conflict.**
-
-- [ ] Forking vs Cloning
-- [ ] Pull Request
-- [ ] Adding a collaborator to a Github Repo
-- [ ] Section 3 Sources - [Sources.md](./Sources.md#section-3---collaboration---link/)
-
-
 ## Section 4 - Additional Definitions - Roberto Rivera and Harrison Lu
-[Link to Section 4](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%204%20-%20CAdditional&20Definitions)
+[Link to Section 4](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%204%20-%20Additional%20Definitions)
 1. **In addition, your team must update your mini-project 1 with definitions and examples of the following terms:**
 
 - [x] How Python uses Indentation to control Flow - [Indentation.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Indentation.md)
@@ -102,23 +92,54 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [x] Section 3 Sources - [Sources.md](./Sources.md#section-4---additional-definitions---link/)
 
 
+
 ## Sources.md - All
 [Link to Sources.md](./Sources.md/)
 1. **Put a section of sources with links to tutorials and feel free to link to other documents in your work.**
 
 - [x] Roberto
 - [x] Harrison
-- [ ] Kenneth
 
 
 
 ## Changelog.csv - All
 [Link to Changelog.csv](./Changelog.csv/)
 
-|Hash   |Contributor   |Date & Time                    |Change                                                                                                                    |
+|Hash   |Username      |Date/Timestamp                 |Change                                                                                                                    |
 |-------|--------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|5e627c3|Roberto Rivera|Thu, 7 Nov 2019 16:53:23 -0500 |Task: Updated README.md with Links for Sources.md                                                                         |
+|94aea3c|Roberto Rivera|Thu, 7 Nov 2019 16:51:32 -0500 |Task: Updated README.md with Links for each Section                                                                       |
+|ecca9b7|Roberto Rivera|Thu, 7 Nov 2019 16:47:30 -0500 |Task: Updated README.md - All with Section 4 - Additional Definitions                                                     |
+|fe6a18a|Roberto Rivera|Thu, 7 Nov 2019 16:34:18 -0500 |Fix: Edited the GangofFour.md                                                                                             |
+|22afe81|Roberto Rivera|Thu, 7 Nov 2019 16:26:40 -0500 |Feature: Added all links from Section 4 -Additional Definitions to README.md                                              |
+|390509f|Roberto Rivera|Thu, 7 Nov 2019 16:22:27 -0500 |Feature: Added all links from Section 4 -Additional Definitions to README.md                                              |
+|e170282|Roberto Rivera|Thu, 7 Nov 2019 16:19:38 -0500 |Feature: Added all links from Section 4 -Additional Definitions to README.md                                              |
+|969e887|Roberto Rivera|Thu, 7 Nov 2019 16:17:25 -0500 |Feature: Added all links from Section 4 -Additional Definitions to README.md                                              |
+|00d4788|Roberto Rivera|Thu, 7 Nov 2019 15:47:21 -0500 |Task: Marked off all Additional Definitions as completed in README.md                                                     |
+|bb716e6|Roberto Rivera|Thu, 7 Nov 2019 15:43:14 -0500 |Task: Showed Class.md complete and added link to README.md                                                                |
+|bed1835|Roberto Rivera|Thu, 7 Nov 2019 15:39:10 -0500 |Feature: Added ReadingFiles.md file to Additional Definitions Directory                                                   |
+|35da2e5|Roberto Rivera|Thu, 7 Nov 2019 15:38:28 -0500 |Feature: Added CsvFiles.md file to Additional Definitions Directory                                                       |
+|b8603c9|Roberto Rivera|Thu, 7 Nov 2019 15:37:31 -0500 |Feature: Added ExtendClass.md file to Additional Definitions Directory                                                    |
+|a64d73f|Roberto Rivera|Thu, 7 Nov 2019 15:36:47 -0500 |Feature: Added Decorator.md file to Additional Definitions Directory                                                      |
+|9ad43ff|Roberto Rivera|Thu, 7 Nov 2019 15:35:59 -0500 |Feature: Added Factory.md file to Additional Definitions Directory                                                        |
+|7c1a699|Roberto Rivera|Thu, 7 Nov 2019 15:34:50 -0500 |Feature: Added Constructor.md file to Additional Definitions Directory                                                    |
+|7c01b02|Roberto Rivera|Thu, 7 Nov 2019 15:34:04 -0500 |Feature: Added UnitTest.md file to Additional Definitions Directory                                                       |
+|cd0a200|Roberto Rivera|Thu, 7 Nov 2019 15:33:08 -0500 |Feature: Added Exception.md file to Additional Definitions Directory                                                      |
+|9b6248d|Roberto Rivera|Thu, 7 Nov 2019 15:32:06 -0500 |Feature: Added Method.md file to Additional Definitions Directory                                                         |
+|f7e0e75|Roberto Rivera|Thu, 7 Nov 2019 15:30:59 -0500 |Feature: Added Property_Attribute.md file to Additional Definitions Directory                                             |
+|d46075e|Roberto Rivera|Thu, 7 Nov 2019 15:29:01 -0500 |Feature: Added Static.md file to Additional Definitions Directory                                                         |
+|d27d90b|Roberto Rivera|Thu, 7 Nov 2019 15:25:37 -0500 |Feature: Added Object.md file to Additional Definitions Directory                                                         |
+|01a6665|Roberto Rivera|Thu, 7 Nov 2019 15:24:19 -0500 |Feature: Added Class.md file to Additional Definitions Directory                                                          |
+|9acdecf|Roberto Rivera|Thu, 7 Nov 2019 15:22:51 -0500 |Feature: Added GangofFour.md file to Additional Definitions Directory                                                     |
+|aa39211|Roberto Rivera|Thu, 7 Nov 2019 15:21:26 -0500 |Feature: Added GangofFour.md file to Additional Definitions Directory                                                     |
+|c1d1d40|Roberto Rivera|Thu, 7 Nov 2019 15:18:10 -0500 |Feature: Added DontRepeatYourself.md file to Additional Definitions Directory                                             |
+|519dc29|Roberto Rivera|Thu, 7 Nov 2019 15:16:44 -0500 |Feature: Added Identation.md file to Additional Definitions Directory                                                     |
+|fb29e55|Harrison Lu   |Wed, 6 Nov 2019 14:07:01 -0500 |TASK: Prepared README and Sources files w/ new sections for additional definitions                                        |
+|4b6e3e1|hl533         |Thu, 10 Oct 2019 19:50:52 -0400|EDIT: Corrected jpg url in Repository.md                                                                                  |
+|a6d2a30|hl533         |Thu, 10 Oct 2019 10:32:55 -0400|EDIT: Final final updates to Changelog                                                                                    |
 |9d40dbe|hl533         |Thu, 10 Oct 2019 10:16:13 -0400|EDIT: Consolidated sourcelists to Sources.md (No repeating!)                                                              |
 |3883560|Harrison Lu   |Thu, 10 Oct 2019 09:08:52 -0400|TASK: Deleted Redundant READMEs (Dont repeat yourself!)                                                                   |
+|4f22352|Harrison Lu   |Wed, 9 Oct 2019 09:25:50 -0400 |EDIT: Maybe actually final changes to changelog now                                                                       |
 |61b02ce|Harrison Lu   |Wed, 9 Oct 2019 09:14:42 -0400 |EDIT: Changes to section links in main README                                                                             |
 |7f2cd9d|Harrison Lu   |Tue, 8 Oct 2019 17:19:20 -0400 |EDIT: Formatting changes to main and sec 2 README docs                                                                    |
 |00029ad|Harrison Lu   |Tue, 8 Oct 2019 16:40:03 -0400 |EDIT: Formatting edit to README in changelog section                                                                      |
@@ -168,7 +189,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 |bd12419|Roberto Rivera|Thu, 3 Oct 2019 15:10:13 -0400 |FEATURE: Explained what is the mv command, why do you do it and how do you do it.                                         |
 |366f687|Roberto Rivera|Thu, 3 Oct 2019 15:02:05 -0400 |FEATURE: Explained what is the pwd command, why do you do it and how do you do it.                                        |
 |8e07e40|Roberto Rivera|Thu, 3 Oct 2019 14:51:18 -0400 |FEATURE: Explained what is the cp command, why do you do it and how do you do it.                                         |
-|1080724|Roberto Rivera|Wed, 2 Oct 2019 19:50:33 -0400 |FEATURES:explained the mkdir command                                                                                      |
+|Dec-58 |Roberto Rivera|Wed, 2 Oct 2019 19:50:33 -0400 |FEATURES:explained the mkdir command                                                                                      |
 |af9d05a|Harrison Lu   |Wed, 2 Oct 2019 19:27:47 -0400 |FEATURE: Created Repository definition document                                                                           |
 |706151c|Roberto Rivera|Wed, 2 Oct 2019 19:18:47 -0400 |FEATURE: created the entry for the defintion of cd                                                                        |
 |bfe706b|Roberto Rivera|Wed, 2 Oct 2019 18:56:00 -0400 |Removed a line                                                                                                            |
@@ -189,6 +210,4 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 |e124d17|Harrison Lu   |Mon, 30 Sep 2019 10:21:19 -0400|FEATURE: Created section4sources.md and filled in TasksandAssignments.md with info from canvas site                       |
 |868c326|Harrison Lu   |Wed, 25 Sep 2019 22:41:34 -0400|TASK: Created TasksandAssignments.md for task/checklist tracking                                                          |
 |3fe2cd0|Harrison Lu   |Wed, 25 Sep 2019 22:28:50 -0400|TASK: Created separate docs for each section/person                                                                       |
-|c103305|hl533         |Wed, 25 Sep 2019 22:15:17 -0400|Initial commit    
-
-
+|c103305|hl533         |Wed, 25 Sep 2019 22:15:17 -0400|Initial commit                                                                                                            |
