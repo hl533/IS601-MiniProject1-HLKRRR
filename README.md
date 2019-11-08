@@ -1,13 +1,13 @@
-# IS601-MiniProject1-HLKRRR
+# IS601-MiniProject1-HLRR
 
-Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Harrison Lu, Kenneth Rhodes Jr, Roberto Rivera
+Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Harrison Lu and Roberto Rivera
 
 
 ## Table of Contents:
 - [README](#readmemd---all)
 - [Command Line](#section-1---command-line---roberto-rivera)
 - [GitFlow & Workflow](#section-2---gitflow--workflow---harrison-lu)
-- [Collaboration](#section-3---collaboration---kenneth-rhodes-jr-mba)
+- [Additional Definitions](#section-3---additional-definitions---roberto-rivera-and-harrison-lu)
 - [Sources](#sourcesmd---all)
 - [Changelog](#changelogcsv---all)
 
@@ -21,8 +21,7 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 - [x] Names in README.md
 - [x] [Link to Section 1](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%201%20-%20Command%20Line) - Command Line 
 - [x] [Link to Section 2](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%202%20-%20GitFlow%20%26%20Workflow) - GitFlow & Worksflow
-- [x] [Link to Section 3](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%203%20-%20Collaboration) - Collaboration
-- [x] [Link to Section 4](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%204%20-%20Additional%20Definitions) - Additional Definitions 
+- [x] [Link to Section 3](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%203%20-%20Additional%20Definitions) - Additional Definitions 
 - [x] [Link to Sources.md](./Sources.md/)
 
 
@@ -69,27 +68,27 @@ Fall 2019 - IS601 Web Dev - Mini Project #1 - Git/Docker/Workflow Tutorial - Har
 
 
 
-## Section 4 - Additional Definitions - Roberto Rivera and Harrison Lu
-[Link to Section 4](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%204%20-%20Additional%20Definitions)
+## Section 3 - Additional Definitions - Roberto Rivera and Harrison Lu
+[Link to Section 3](https://github.com/hl533/IS601-MiniProject1-HLKRRR/tree/master/Section%203%20-%20Additional%20Definitions)
 1. **In addition, your team must update your mini-project 1 with definitions and examples of the following terms:**
 
-- [x] How Python uses Indentation to control Flow - [Indentation.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Indentation.md)
-- [x] Don't Repeat Yourself - [DontRepeatYourself.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/DontRepeatYourself.md)
-- [x] Design Patterns from Gang of Four - [GangofFour.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/GangofFour.md)
-- [x] Class - [Class.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Class.md)
-- [x] Object - [Object.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Object.md)
-- [x] Static - [Static.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Static.md)
-- [x] Property / Attribute - [Property_Attribute.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Property_Attribute.md)
-- [x] Method - [Method.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Method.md)
-- [x] Exception - [Exception.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Exception.md)
-- [x] Unit Test - [UnitTest.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/UnitTest.md)
-- [x] Constructor - [Constructor.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Constructor.md)
-- [x] Factory - [Factory.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Factory.md)
-- [x] Decorator - [Decorator.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/Decorator.md)
-- [x] Extend Class - [ExtendClass.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/ExtendClass.md)
-- [x] CSV Files - [CsvFiles.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/CsvFiles.md)
-- [x] Reading Files - [ReadingFiles.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%204%20-%20Additional%20Definitions/ReadingFiles.md)
-- [x] Section 3 Sources - [Sources.md](./Sources.md#section-4---additional-definitions---link/)
+- [x] How Python uses Indentation to control Flow - [Indentation.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/Indentation.md)
+- [x] Don't Repeat Yourself - [DontRepeatYourself.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/DontRepeatYourself.md)
+- [x] Design Patterns from Gang of Four - [GangofFour.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/GangofFour.md)
+- [x] Class - [Class.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/Class.md)
+- [x] Object - [Object.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/Object.md)
+- [x] Static - [Static.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/Static.md)
+- [x] Property / Attribute - [Property_Attribute.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/Property_Attribute.md)
+- [x] Method - [Method.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/Method.md)
+- [x] Exception - [Exception.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/Exception.md)
+- [x] Unit Test - [UnitTest.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/UnitTest.md)
+- [x] Constructor - [Constructor.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/Constructor.md)
+- [x] Factory - [Factory.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/Factory.md)
+- [x] Decorator - [Decorator.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/Decorator.md)
+- [x] Extend Class - [ExtendClass.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/ExtendClass.md)
+- [x] CSV Files - [CsvFiles.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/CsvFiles.md)
+- [x] Reading Files - [ReadingFiles.md](https://github.com/hl533/IS601-MiniProject1-HLKRRR/blob/master/Section%203%20-%20Additional%20Definitions/ReadingFiles.md)
+- [x] Section 3 Sources - [Sources.md](./Sources.md#section-3---additional-definitions---link/)
 
 
 
